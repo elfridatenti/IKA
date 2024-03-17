@@ -62,11 +62,11 @@
                     <li><a href="/gallery_video">Gallery Video</a></li>
                   </ul>
                 </li>
-                <li><a href="/keanggotaan">Keanggotaan</a></li>
+                <li><a href="/keanggotaan">Alumni</a></li>
                 <li><a href="/news">News</a></li>
                 <li><a href="/contact">Contact</a></li>
                 <li><a href="/login">Login</a></li>
-                <li><a href="/register">Daftar</a></li>
+                <li><a href="/register">Registrasi</a></li>
               </ul>
             </nav>
           </div>
@@ -82,18 +82,12 @@
       
     </header>
 <!--end header-->
-  
 
-    <div class="site-blocks-cover overlay" style="background-image: url(images/gedung.jpg);" data-aos="fade" data-stellar-background-ratio="0,5" height="500px">
+    <div class="site-blocks-cover overlay" style="background-image: url(images/kuda.jpg);" data-aos="fade" data-stellar-background-ratio="0,5" height="500px">
       <div class="container-fluid">
-        <div class="row align-items-center justify-content-center text-center">
-
-          <div class="col-md-8" data-aos="fade-up" data-aos-delay="400">
-            
-
-            <h1 class="text-white font-weight-light mb-5 text-uppercase font-weight-bold">SELAMAT DATANG ALUMNI IKA UNDIP</h1>
-            
-
+        <div class="row align-items-center justify-content-center text-start">
+          <div class="col-md-8" data-aos="fade-up" data-aos-delay="400">         
+            <h1 class="text-light font-weight-light mb-3 font-weight" style="font-family: 'italic', sans-serif; font-size: 48px; text-align: left;"> Ikatan Keluarga Alumni <br /> Universitas Diponegoro </h1>          
           </div>
         </div>
       </div>
@@ -101,29 +95,29 @@
 
 
     <!--adhadhaidh-->
-    <div class="container-fluid">
+    <!-- <div class="container-fluid">
       <div class="row align-items-center no-gutters align-items-stretch overlap-section" >
         <div class="col-md-4">
-          <div class="feature-1 pricing h-100 text-center bg-dark">
+        <div class="feature-1 pricing h-100 text-center" style="background-color: #232946;">
           <div class="icon">
               <span></span>
             </div>
             <h2 class="my-4 heading">Batam</h2>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis ipsum odio minima tempora animi iure.</p>
           </div>
-        </div>
+        </div> -->
 
         <!---->
 
-        <div class="col-md-4">
-          <div class="feature-1 pricing bg-dark h-100 text-center">
+        <!-- <div class="col-md-4">
+          <div class="feature-1 pricing h-100 text-center" style="background-color: #004643;">
             <div class="icon">
               <span></span>
             </div>
             <h2 class="my-4 heading">karimun</h2>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis ipsum odio minima tempora animi iure.</p>
           </div>
-        </div>
+        </div> -->
 
         <!----->
         <!--
@@ -146,8 +140,8 @@
           </div>
         </div>
       -->
-        <div class="col-md-4">
-          <div class="feature-3 pricing h-100 text-center bg-dark" >
+        <!-- <div class="col-md-4">
+        <div class="feature-1 pricing h-100 text-center" style="background-color: #004643;">
             <div class="icon">
               <span></span>
             </div>
@@ -156,23 +150,22 @@
           </div>
         </div>
       </div>
-    </div>
+    </div> -->
 
     <!--ehhe-->
     <div class="container-fluid">
         <div class="row mr-5 ml-5">
-          <div class="col-lg-5 pr-md-0 pr-sm-0 feature-4">
+          <div class="row" style="padding-top:40px;">
+          <div class="text-center">
+            <div class="head-text">
             <h2 class="mt-0 heading-border-top mb-3 font-weight-normal">Tentang Ika Undip</h2>
             <p>adalah portal Ikatan Alumni Universitas Diponegoro sebagai media silaturahmi, komunikasi,dan informasi sesama alumni Universitas Diponegoro di manapun berada.</p>
-          </div>
-          <div class="col-lg-7 pr-md-5 pr-sm-0 feature-4"  >
-            <div class="images">
-              <img class="img1 img-fluid" src="images/k1.png" style="width : 100%;">
-            </div>
-          </div>
-          
+          </div> 
+          </div>    
+          </div>     
         </div>
-      </div>  
+      </div> 
+      </div> 
     <!--ehhe part2-->
     <div class="container-fluid">
         <div class="row mr-5 ml-5">
@@ -321,7 +314,7 @@
             </div>
           </div>
           <div class="col-md-3">
-                <h2 class="footer-heading mb-4">Follow Us</h2>
+                <h2 class="footer-heading mb-4"></h2>
                 <a href="#" class="pl-0 pr-3"><span class="icon-facebook"></span></a>
                 <a href="#" class="pl-3 pr-3"><span class="icon-twitter"></span></a>
                 <a href="#" class="pl-3 pr-3"><span class="icon-instagram"></span></a>
